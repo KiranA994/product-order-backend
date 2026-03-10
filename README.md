@@ -33,10 +33,6 @@ backend/
   ...
 ```
 
-> Note: Actual file names and structure may vary slightly; update this section to match your project.
-
----
-
 ## Requirements
 
 - **Node.js** (LTS recommended, e.g. 18+)
