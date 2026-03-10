@@ -61,7 +61,7 @@ backend/
 
    ```bash
    PORT=3000
-   MONGODB_URI=mongodb+srv://<username>:<password>@<cluster-url>/<dbname>?retryWrites=true&w=majority&appName=********
+   MONGO_URL=mongodb+srv://<username>:<password>@<cluster-url>/<dbname>?retryWrites=true&w=majority&appName=********
    # Add any additional environment variables your db/ and route files require
    ```
 
